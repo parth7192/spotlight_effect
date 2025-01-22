@@ -1,16 +1,19 @@
-# spotlight_effect
+# ✨ Interactive Spotlight Effect using Flutter ✨
 
-A new Flutter project.
+This project demonstrates a fun and engaging **Spotlight Effect** built using Flutter. It highlights Flutter's capability to create interactive and visually appealing user interfaces.
 
-## Getting Started
+## 🔍 Features
 
-This project is a starting point for a Flutter application.
+- **MouseRegion**: Captures real-time cursor movements across the screen to make the spotlight follow the user's mouse.  
+- **Spotlight Position**: Dynamically updates the spotlight's position based on the cursor's location, providing a smooth and responsive effect.  
+- **ShaderMask**: Uses a `RadialGradient` to simulate the spotlight effect, seamlessly blending with the dark background for a polished look.  
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 About the Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project showcases the power of Flutter's flexibility and its ability to create interactive and immersive user experiences. The spotlight effect can be adapted to various use cases, such as interactive tutorials, games, or aesthetic enhancements for UI elements.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone [repository_url]
