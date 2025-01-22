@@ -16,3 +16,5 @@ This project showcases the power of Flutter's flexibility and its ability to cre
 
 1. Clone this repository to your local machine:
   - git clone https://github.com/parth7192/spotlight_effect
+
+https://github.com/user-attachments/assets/bfac1f92-fff7-4c4f-a3f2-a493f1287bd2
