@@ -8,11 +8,11 @@ This project demonstrates a fun and engaging **Spotlight Effect** built using Fl
 - **Spotlight Position**: Dynamically updates the spotlight's position based on the cursor's location, providing a smooth and responsive effect.  
 - **ShaderMask**: Uses a `RadialGradient` to simulate the spotlight effect, seamlessly blending with the dark background for a polished look.  
 
-## 💡 About the Project
+## 💡 About the PROJECT
 
 This project showcases the power of Flutter's flexibility and its ability to create interactive and immersive user experiences. The spotlight effect can be adapted to various use cases, such as interactive tutorials, games, or aesthetic enhancements for UI elements.
 
-## 🚀 How to Run
+## 🚀 GIT
 
 1. Clone this repository to your local machine:
   - git clone https://github.com/parth7192/spotlight_effect
